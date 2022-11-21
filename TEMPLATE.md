@@ -1,4 +1,6 @@
-<!-- YOUR ABOUT ME -->
+> *Copy this file into your workspace (click [here](https://github.com/limitly/free-copilot/README.md#What%To%Do) if you haven't made one yet). **Do __NOT__ edit this file directly***
+
+<!-- YOUR ABOUT ME, delete the line above after you have copied this file into your workspace -->
 :wave: Hi, I am `Insert_Name_Here`
 
 Here are my top 3 favourite programming related websites:
