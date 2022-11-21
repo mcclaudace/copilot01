@@ -1,1 +1,1 @@
-# free-copilot
+Get Github Copilot for free
