@@ -8,9 +8,9 @@ In order to become eligible you need `write` access to a popular repository whic
 
 But that's where we come in, [@InimicalPart](https://github.com/inimicalpart) and I ([@1RB](https://github.com/1RB)) have created this repo where **all of you** will get write access 🎉.
 
-## What To Do
+But thats only the first step, the second step is to become a **popular repository** and in order for that to happen we need **your help**!
 
-But thats only the first step, the second step is to become a **popular repository** and in order to do so we need **your help**!
+## What To Do
 
 1. :star: this repo as it is one of the first ways to know how popular a repo is.
 2. Create a folder with your username this will be your workspace. `Eg. /<username>`
