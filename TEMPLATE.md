@@ -1,7 +1,7 @@
 > *Copy this file into your workspace (click [here](https://github.com/Limitly/Free-Copilot/blob/main/README.md#what-to-do) if you haven't made one yet). **Do __NOT__ edit this file directly***
 
-<!-- YOUR ABOUT ME, delete the line above after you have copied this file into your workspace -->
-# :wave: Hi, I am `Insert_Name_Here`
+<!-- Delete the line above after you have copied this file into your workspace -->
+# :wave: Hi, I am `Name`
 
 Here are my top 3 favourite programming related websites:
 
