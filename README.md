@@ -4,7 +4,9 @@
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
 
 According to a [blog](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) by Github, 
-> Maintainers of popular open source projects / repositories will get access to Copilot for free. 
+> Maintainers of popular open source projects / repositories will get 12 month access to Copilot for free. 
+
+![image](https://user-images.githubusercontent.com/86501179/203340714-4224f0b3-412a-4361-8597-50b62b3ef6ad.png)
 
 In order to become eligible you need `write` access to a popular repository which is kind of hard to achieve 🥲 and that's where we come in, [@InimicalPart](https://github.com/inimicalpart) and I ([@1RB](https://github.com/1RB)) have created this repo where **all of you** will get write access 🎉.
 <br /> But thats only the first step, the second step is to become a ✨**popular repository**✨ and in order for that to happen we need **your help**!
