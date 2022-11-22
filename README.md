@@ -1,4 +1,6 @@
-# How This Works
+# The Free Copilot Project
+
+## How This Works
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
 
 According to a [blog](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) by Github, 
@@ -10,7 +12,7 @@ But that's where we come in, [@InimicalPart](https://github.com/inimicalpart) an
 
 But thats only the first step, the second step is to become a **popular repository** and in order for that to happen we need **your help**!
 
-# What To Do
+## What To Do
 
 1. :star: this repo as it is one of the first ways to know how popular a repo is.
 
