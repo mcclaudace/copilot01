@@ -13,8 +13,8 @@ In order to become eligible you need `write` access to a popular repository whic
 
 1. :star: this repo as it is one of the first ways to know how popular a repo is.
 2. Open the [`Contributers`](/Contributers/) folder
-2. Create a folder with your username inside the folder, this will be your workspace. `Eg. /Contributers/<username>/`
-3. Inside your workspace create a README file. `Eg. /Contributers/<username>/README.md`
+2. Create a folder with your username inside the folder, this will be your workspace. (`Eg. /Contributers/<username>/`)
+3. Inside your workspace create a README file. (`Eg. /Contributers/<username>/README.md`)
 4. Write a little bit about yourself and commit the file to the repository. *You may use [this](/TEMPLATE.md) template*
 5. Share this repo around to fellow developers who are looking to get this amazing product for free.
 
