@@ -13,7 +13,7 @@ But thats only the first step, the second step is to become a **popular reposito
 ## What To Do
 
 1. :star: this repo as it is one of the first ways to know how popular a repo is.
-2. Open the [`Contributers`](https://github.com/Limitly/Free-Copilot/edit/main/README.md) folder
+2. Open the [`Contributers`](https://github.com/Limitly/Free-Copilot/Contributers/) folder
 2. Create a folder with your username inside the folder, this will be your workspace. `Eg. /<username>`
 3. Inside your workspace create a README file. `Eg. /<username>/README.md`
 4. Write a little bit about yourself and commit the file to the repository. *You may use [this](/TEMPLATE.md) template*
