@@ -1,5 +1,5 @@
 # :wave: Hey
-So you are ready to contribute to this repo and get Github Copilot. 
+So you are ready to contribute to this repo and gain access to Github Copilot. 
 
 Follow the steps [here](../README.md) in order to create your workspace
 
