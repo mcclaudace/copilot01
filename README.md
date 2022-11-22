@@ -1,4 +1,4 @@
-# The Free Copilot Project
+# The Free Github Copilot Project
 
 ## How This Works
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
