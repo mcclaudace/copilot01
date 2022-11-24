@@ -22,7 +22,9 @@ In order to become eligible you need `write` access to a popular repository whic
 2. Open the [`Contributors`](/Contributors/) folder
 2. Create a folder with your username inside the folder, this will be **your workspace**. (`Eg. Contributors/<username>/`)
 3. Inside your workspace create a README file. (`Eg. Contributors/<username>/README.md`)
-4. Write a little bit about yourself and commit the file to the repository. *You may use [this](/TEMPLATE.md) template*
-5. Share this repo around to fellow developers who are looking to get this amazing product for free.
+4. Write a little bit about yourself and create a pull request with the file to the repository. *You may use [this](/TEMPLATE.md) template*
+4. [@LimitlyAI](https://github.com/LimitlyAI) will review your changes and inform you if any changes are to be made. 
+7. Once everything looks good check your emails as you should receive an invite in your emails to become a collaborator.
+6. Share this repo around to fellow developers who are looking to get this amazing product for free.
 
 *****⚠️WARNING⚠️**: To reduce the number of trolls, we will not be allowing commits to files outside of your workspace***
