@@ -22,8 +22,8 @@ In order to become eligible you need `write` access to a popular repository whic
 4. Write a little bit about yourself and commit the file to the repository. *You may use [this](/TEMPLATE.md) template*
 5. Share this repo around to fellow developers who are looking to get this amazing product for free.
 
-Once you get your collaborator role, you will need to commmit to your workspace atleast once a month in order to retain it.
+**🔴IMPORTANT🔴**: Once you get your collaborator role, you will need to commmit to your workspace atleast once a month in order to retain your role
 
-*****⚠️WARNING⚠️**: If you edit any file that is outside of your workspace, you will be removed from your collaborator position and blocked from becoming one in the future.***
+*****⚠️WARNING⚠️**: If you edit any file that is outside of your workspace, you will be asked to move all your changes there***
 
 > ***Unfortunately as this is a new project it may take a bit to gain traction and for Github to recognise it as an active popular repo.***
