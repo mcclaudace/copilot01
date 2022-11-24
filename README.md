@@ -1,4 +1,6 @@
 # The Free Github Copilot Project
+![](https://img.shields.io/github/all-contributors/limitly/free-copilot?label=%23%20of%20Contributors&logo=github&style=for-the-badge&color=ff69b4)
+![](https://img.shields.io/github/commit-activity/m/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 
 ## How This Works
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
