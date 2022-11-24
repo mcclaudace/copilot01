@@ -2,6 +2,9 @@
 ![](https://img.shields.io/github/contributors/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/m/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 
+*****‼️IMPORTANT‼️** Once you get your collaborator role, you will need to commmit to your workspace atleast once a month in order to retain your role***
+> ***Unfortunately as this is a new project it may take a bit to gain traction and for Github to recognise it as an active popular repo.***
+
 ## How This Works
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
 
@@ -22,7 +25,4 @@ In order to become eligible you need `write` access to a popular repository whic
 4. Write a little bit about yourself and commit the file to the repository. *You may use [this](/TEMPLATE.md) template*
 5. Share this repo around to fellow developers who are looking to get this amazing product for free.
 
-*****⚠️WARNING⚠️**: To reduce the number of trolls, we will not be allowing commits to files outside of your workspace***\
-*****🔴IMPORTANT🔴**: Once you get your collaborator role, you will need to commmit to your workspace atleast once a month in order to retain your role***
-
-> ***Unfortunately as this is a new project it may take a bit to gain traction and for Github to recognise it as an active popular repo.***
+*****⚠️WARNING⚠️**: To reduce the number of trolls, we will not be allowing commits to files outside of your workspace***
