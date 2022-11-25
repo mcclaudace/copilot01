@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/contributors/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/m/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 
-*****‼️IMPORTANT‼️** Once you get your collaborator role, you will need to commmit to your workspace atleast once a month in order to retain your role***
+*****‼️IMPORTANT‼️** Once you get your collaborator role, you will need to commmit to your workspace at least once a month in order to retain your role***
 > ***Please note that as this is a new project it may take a bit to gain traction and for Github to recognise it as an active popular repo.***
 
 ## How This Works
