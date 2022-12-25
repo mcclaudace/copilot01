@@ -1,9 +1,10 @@
+> ***Please note that as this is a new project it may take a bit to gain traction and for Github to recognise it as an active, popular repo.***
 # The Free Github Copilot Project
 ![](https://img.shields.io/github/contributors/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/m/limitly/free-copilot?color=ff69b4&logo=github&style=for-the-badge)
 
-*****‼️IMPORTANT‼️** Once you get your collaborator role, you will need to commit to your workspace at least once a month in order to retain your role. This is to keep the repository "active" so other people can also get Copilot.***
-> ***Please note that as this is a new project it may take a bit to gain traction and for Github to recognise it as an active popular repo.***
+*****‼️IMPORTANT‼️** Once you get your collaborator role, you will need to commit to your workspace at least once a month in order to retain your role. This is to keep the repository "active" so other people can also get Copilot.***\ 
+<br /><br />❗Please read the full [Terms of Use](/terms_of_use.md) carefully before using the repository. 
 
 ## How This Works
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
@@ -29,12 +30,4 @@ In order to become eligible you need `write` access to a popular repository whic
 
 *****⚠️WARNING⚠️**: To reduce the number of trolls, we will not be allowing commits to files outside of your workspace***
 
-> <i>These Terms of Use shall remain in full force and effect while you use the repository. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THIS REPOSITORY (INCLUDING AUTODENYING PR REQUESTS), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE REPO OR DELETE ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME,
-WITHOUT WARNING, IN OUR SOLE DISCRETION.
->
-> If we terminate or suspend your account for any reason, you are prohibited from registering and
-> creating a new account under your name, a fake or borrowed name, or the name of
-> any third party, even if you may be acting on behalf of the third party. In
-> addition to terminating or suspending your account, we reserve the right to
-> take appropriate legal action, including without limitation pursuing civil,
-> criminal, and injunctive redress.</i>
+❗Please read the full [Terms of Use](/terms_of_use.md) carefully before using the repository. 
