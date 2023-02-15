@@ -6,7 +6,7 @@
 *****‼️IMPORTANT‼️** Once you get your collaborator role, you will need to commit to your workspace at least once a month in order to retain your role. This is to keep the repository "active" so other people can also get Copilot.***
 <br /><br />❗Please read the full [Terms of Use](/terms_of_use.md) carefully before using the repository. 
 
-## How This Works
+## The Plan
 <img align="center" src="https://user-images.githubusercontent.com/86501179/203108318-1abe0f0e-b787-42e6-a3ae-b4bbf49d73bf.png">
 
 According to a [blog](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/) by Github, 
